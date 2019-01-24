@@ -1,0 +1,16 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "buffer.js",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-static-server": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
